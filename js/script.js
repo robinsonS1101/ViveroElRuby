@@ -43,7 +43,7 @@
                 id: 1,
                 name: "Abarco de rio",
                 category: "forestales",
-                price: 4500,
+                price: 1000+"-$"+5000,
                 availability: "in-stock",
                 image: "img/Abarco-de-rio.jpeg",
                 description: "Crecimiento: Rápido en suelos húmedos y profundos, cerca de ríos y quebradas. Importancia ecológica: Ayuda a conservar cuencas hidrográficas y es refugio de fauna silvestre."
@@ -52,7 +52,7 @@
                 id: 2,
                 name: "Algarrobo",
                 category: "forestales",
-                price: 6500,
+                price: 1000+"-$"+5000,
                 availability: "in-stock",
                 image: "img/Algarrobo.jpeg",
                 description: "Crecimiento: Moderado, prefiere suelos profundos y bien drenados Importancia ecológica: Fija nitrógeno, mejora la fertilidad del suelo y es refugio de fauna silvestre"
@@ -61,7 +61,7 @@
                 id: 3,
                 name: "Arayan",
                 category: "frutales",
-                price: 7500,
+                price: 1000+"-$"+5000,
                 availability: "in-stock",
                 image: "img/Arrayan.jpeg",
                 description: "Crecimiento: Moderado, adaptable a diferentes suelos y climas Importancia ecológica: Atrae aves y polinizadores, ayuda a la biodiversidad"
@@ -70,7 +70,7 @@
                 id: 4,
                 name: "Cachimbo",
                 category: "frutales",
-                price: 3800,
+                price: 1000+"-$"+5000,
                 availability: "in-stock",
                 image: "img/Cachimbo.jpeg",
                 description: "Crecimiento: Moderado, prefiere suelos húmedos y profundos Importancia ecológica: Proporciona alimento a aves y fauna silvestre,Fruto: Drupa pequeña, comestible, de sabor dulce Usos: Fruto para consumo fresco; madera utilizada localmente"
@@ -79,7 +79,7 @@
                 id: 5,
                 name: "Caño fistol",
                 category: "ornamentales",
-                price: 8500,
+                price: 1000+"-$"+5000,
                 availability: "in-stock",
                 image: "img/Caño fistol.jpeg",
                 description: "Crecimiento: Rápido, tolera suelos variados Importancia ecológica: Atrae polinizadores y embellece el entorno, Usos: Ideal para parques, avenidas y jardines por su belleza"
@@ -88,7 +88,7 @@
                 id: 6,
                 name: "Eucalipto pellita",
                 category: "forestales",
-                price: 5500,
+                price: 1000+"-$"+5000,
                 availability: "in-stock",
                 image: "img/Eucalipto pellita.jpeg",
                 description: "Usos: Reforestación, madera para construcción y papel, ornamental Distribución: Originario de Australia y Asia, adaptado en Colombia Crecimiento: Muy rápido, tolera suelos pobres y húmedos Importancia ecológica: Mejora la calidad del suelo y captura carbono"
@@ -97,7 +97,7 @@
                 id: 7,
                 name: "Eucalipto",
                 category: "forestales",
-                price: 3500,
+                price: 1000+"-$"+5000,
                 availability: "in-stock",
                 image: "img/Eucalipto.jpeg",
                 description: "Usos: Madera para construcción, papel, aceites esenciales y reforestación Crecimiento: Muy rápido, tolera suelos pobres y húmedos Importancia ecológica: Captura carbono, mejora la calidad del suelo y sirve para cortinas rompevientos"
@@ -106,7 +106,7 @@
                 id: 8,
                 name: "Guacimo",
                 category: "forestales",
-                price: 2800,
+                price: 1000+"-$"+5000,
                 availability: "in-stock",
                 image: "img/Guacimo.jpeg",
                 description: "Usos: Sombra, madera, alimento para ganado y restauración ecológica, Crecimiento: Rápido, tolera suelos pobres y secos Importancia ecológica: Mejora la fertilidad del suelo y es refugio de fauna silvestre"
@@ -115,7 +115,7 @@
                 id: 9,
                 name: "Guamo machete",
                 category: "frutales",
-                price: 2500,
+                price: 1000+"-$"+5000,
                 availability: "in-stock",
                 image: "img/Guamo machete.jpeg",
                 description: "Usos: Fruto para consumo fresco, sombra y restauración ecológica, Crecimiento: Rápido, prefiere suelos húmedos y fértiles Importancia ecológica: Fija nitrógeno, mejora la fertilidad del suelo y es refugio de fauna silvestre"
@@ -124,7 +124,7 @@
                 id: 10,
                 name: "Gualanday",
                 category: "frutales",
-                price: 5200,
+                price: 1000+"-$"+5000,
                 availability: "in-stock",
                 image: "img/Gualanday.jpeg",
                 description: "Usos: Ornamental en parques y avenidas, madera para carpintería, Crecimiento: Rápido, tolera suelos variados Importancia ecológica: Atrae polinizadores y embellece el entorno"
@@ -133,7 +133,7 @@
                 id: 11,
                 name: "Igua",
                 category: "frutales",
-                price: 5200,
+                price: 1000+"-$"+5000,
                 availability: "in-stock",
                 image: "img/Igua.jpeg",
                 description: "Usos: Fruto para consumo fresco, sombra y restauración ecológica, Crecimiento: Rápido, prefiere suelos húmedos y fértiles Importancia ecológica: Fija nitrógeno, mejora la fertilidad del suelo y es refugio de fauna silvestre"
@@ -142,7 +142,7 @@
                 id: 12,
                 name: "Machaco",
                 category: "forestales",
-                price: 5200,
+                price: 1000+"-$"+5000,
                 availability: "in-stock",
                 image: "img/Machaco.jpeg",
                 description: "Usos: Madera para construcción y carpintería Distribución: Nativo de América tropical, presente en Colombia Crecimiento: Lento a moderado, prefiere suelos húmedos y profundos Importancia ecológica: Refugio de fauna silvestre y conservación de bosques"
@@ -151,7 +151,7 @@
                 id: 13,
                 name: "Marañon",
                 category: "frutales",
-                price: 3200,
+                price: 1000+"-$"+5000,
                 availability: "in-stock",
                 image: "img/Marañon.jpeg",
                 description: "Usos: Fruto para consumo fresco, nuez para alimentación y repostería, Crecimiento: Moderado, prefiere suelos arenosos y bien drenados Importancia ecológica: Atrae fauna silvestre y polinizadores"
@@ -160,7 +160,7 @@
                 id: 14,
                 name: "Ocobo rosado",
                 category: "ornamentales",
-                price: 4200,
+                price: 1000+"-$"+5000,
                 availability: "in-stock",
                 image: "img/Ocobo rosado.jpeg",
                 description: "Usos: Ornamental en parques, avenidas y jardines Distribución: Nativo de América tropical, común en Colombia Crecimiento: Rápido, tolera suelos variados Importancia ecológica: Atrae polinizadores y embellece el entorno"
@@ -169,7 +169,7 @@
                 id: 15,
                 name: "Palma de asai",
                 category: "frutales",
-                price: 8100,
+                price: 1000+"-$"+5000,
                 availability: "in-stock",
                 image: "img/Palma de Asai.jpeg",
                 description: "Usos: Fruto para consumo fresco, jugos y productos saludables, Crecimiento: Rápido, prefiere suelos húmedos y bien drenados Importancia ecológica: Proporciona alimento y refugio a fauna silvestre, ayuda a conservar ecosistemas húmedos"
@@ -178,7 +178,7 @@
                 id: 16,
                 name: "Saman",
                 category: "ornamentales",
-                price: 7500,
+                price: 1000+"-$"+5000,
                 availability: "in-stock",
                 image: "img/Saman.jpeg",
                 description: "Usos: Sombra en potreros y parques, madera para carpintería Distribución: Nativo de América tropical, común en Colombia Crecimiento: Rápido, tolera suelos variados Importancia ecológica: Fija nitrógeno, mejora la fertilidad del suelo y es refugio de fauna silvestre"
@@ -187,16 +187,16 @@
                 id: 17,
                 name: "Yopo",
                 category: "forestales",
-                price: 3800,
+                price: 1000+"-$"+5000,
                 availability: "in-stock",
                 image: "img/Yopo.jpeg",
                 description: "Usos: Sombra en potreros y parques, madera para carpintería, Crecimiento: Rápido, tolera suelos variados Importancia ecológica: Fija nitrógeno, mejora la fertilidad del suelo y es refugio de fauna silvestree"
             },
             {
                 id: 18,
-                name: "abono organico 5Kg",
+                name: "abono organico 50Kg",
                 category: "abonos",
-                price: 18000,
+                price: 10000,
                 availability: "in-stock",
                 image: "img/abono.png",
                 description: "Abono natural para mejorar la calidad del suelo"
