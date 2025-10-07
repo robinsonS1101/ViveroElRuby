@@ -2,19 +2,19 @@
         // Obtener el año actual
         const year = new Date().getFullYear();
         // Insertar el año en el elemento con id "year"
-
         document.getElementById('year').textContent = year;
+
         // Crear efecto de partículas
         function createParticles() {
             const particlesContainer = document.getElementById('particles');
-            const particleCount = 50;
+            const particleCount = 150;
             
             for (let i = 0; i < particleCount; i++) {
                 const particle = document.createElement('div');
                 particle.className = 'particle';
                 
                 // Tamaño aleatorio
-                const size = Math.random() * 4 + 1;
+                const size = Math.random() * 10 + 1;
                 particle.style.width = `${size}px`;
                 particle.style.height = `${size}px`;
                 
@@ -28,7 +28,7 @@
                 particle.style.background = color;
                 
                 // Animación aleatoria
-                const duration = Math.random() * 20 + 10;
+                const duration = Math.random() * 3 + 8;
                 const delay = Math.random() * 5;
                 particle.style.animationDuration = `${duration}s`;
                 particle.style.animationDelay = `${delay}s`;
