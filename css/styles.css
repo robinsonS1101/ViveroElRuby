@@ -159,7 +159,7 @@
 
         .logo h1 {
             font-family: 'Orbitron', sans-serif;
-            font-size: 1.3rem;
+            font-size: 1.0rem;
             background: linear-gradient(45deg, var(--neon-green), var(--neon-blue));
             -webkit-background-clip: text;
             background-clip: text;
